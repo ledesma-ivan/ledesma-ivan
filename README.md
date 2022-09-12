@@ -6,7 +6,7 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/Ivan-Devl/Final-Project">Automated product categorization for e-commerce with AI</a>.</li>
+  <li>🔭 I’m currently working on <a href="https://github.com/ledesma-ivan/automated-product-clasification">Automated product categorization for e-commerce with AI</a>.</li>
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Ivan-Devl?tab=repositories">Github</a>.</li>
   <li>💬 Ping me about <strong>Python 🐍</strong>.</li>
 </ul>
