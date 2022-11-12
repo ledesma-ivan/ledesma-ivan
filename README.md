@@ -10,7 +10,6 @@
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ledesma-ivan?tab=repositories">Github</a>.</li>
   <li>💬 Ping me about <strong>Python 🐍</strong>.</li>
 </ul>
-<h2>🚀 Some Tools I Use</h2>
 <p align="left">
   
 <h3 align="left">Languages and Tools:</h3>
