@@ -1,5 +1,7 @@
 <h1 align="center">Hi 🤗, I'm Ivan Ledesma</h1>
 <h3 align="center">Data, ML engineer</h3>
+<a href="https://www.linkedin.com/in/ivanledesma-/"><img src="https://img.shields.io/badge/-@ivanledesma-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ivanledesma-/" alt="LinkedIn Badge"></a>
+
 <p>I'm Data Science student at <strong>National University Guillermo Brown.</strong> <br>I am working on some side projects</p>
 <p>
 
