@@ -21,4 +21,5 @@
 <a href="https://www.linkedin.com/in/ivanledesma-/"><img src="https://img.shields.io/badge/-@ivanledesma-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ivanledesma-/" alt="LinkedIn Badge"></a>
 
 [![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ledesma-ivan)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ledesma-ivan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
