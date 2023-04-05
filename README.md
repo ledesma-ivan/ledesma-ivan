@@ -8,8 +8,11 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/ledesma-ivan/docker-postgresql-pipeline">Docker PostgreSQL Data Pipeline</a> and <a href="https://github.com/ledesma-ivan/license-plate-recognition-realtime">License plate recognition realtime</a>
+  <li>🔭 I’m currently working on <a href="https://github.com/ledesma-ivan/docker-postgresql-pipeline">Docker PostgreSQL Data Pipeline</a>
 .</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>how to create awesome Data Engineer solutions</strong></p>
+</li>
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ledesma-ivan?tab=repositories">Github</a>.</li>
   <li>💬 Ping me about <strong>Python 🐍</strong>.</li>
 </ul>
