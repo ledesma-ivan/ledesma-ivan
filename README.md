@@ -1,4 +1,4 @@
-<h2>Hello World  👋 ! I'm <a href="https://www.linkedin.com/in/ivanledesma-/">Ivan Ledesma</a></h2>
+<h1 align="center">Hi 🤗, I'm Ivan Ledesma</h1>
 <p>I'm Data Science student at <strong>National University Guillermo Brown.</strong> <br>I am working on some side projects</p>
 <p>
   <a href="https://www.linkedin.com/in/ivanledesma-/"><img src="https://img.shields.io/badge/-@ivanledesma-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ivanledesma-/" alt="LinkedIn Badge"></a> 
