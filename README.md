@@ -7,7 +7,7 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/ledesma-ivan/docker-postgresql-pipeline">Docker PostgreSQL Data Pipeline</a></li>
+  <li>🔭 I’m currently working on <a href="https://github.com/kk-digital/kcg-ml-sd1p4">Docker Stable Diffusion deployment</a></li>
   <li>🌱 I’m currently learning <strong>how to create awesome Data Engineer solutions</strong></li>
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ledesma-ivan?tab=repositories">Github</a>.</li>
   <li>💬 Ping me about <strong>Python 🐍</strong>.</li>
