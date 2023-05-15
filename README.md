@@ -10,7 +10,6 @@
   <li>🔭 Actualmente estoy trabajando en <a href="https://github.com/kk-digital/kcg-ml-sd1p4">Despliegue de difusión estable de Docker</a>.</li>
   <li>🌱 Actualmente estoy aprendiendo <strong>cómo crear soluciones impresionantes de Ingeniero de Datos</strong>.</li>
   <li>👨‍💻 La mayoría de mis proyectos están disponibles en <a href="https://github.com/ledesma-ivan?tab=repositories">Github</a>.</li>
-  <li>💬 Háblame de <strong>Python 🐍</strong>.</li>
 </ul>
 <p align="left">
   
