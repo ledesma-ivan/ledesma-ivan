@@ -1,4 +1,4 @@
-<h1 align="center">Hola 🤗</h1>
+<h1 align="center">Hola 🤗, yo soy Ivan Ledesma</h1>
 <h3 align="center">Data, ML engineer</h3>
 
 <p>Soy estudiante de Ciencia de Datos en la <strong>Universidad Nacional Guillermo Brown</strong>.<br>Estoy trabajando en algunos proyectos paralelos</p>
