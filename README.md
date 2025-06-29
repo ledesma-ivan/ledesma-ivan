@@ -6,5 +6,5 @@ Hi, I'm **Ivan**, an advanced **Data Science** student at *Guillermo Brown Natio
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/ledesma-ivan/)
 
-📆 Schedule a [Meeting](https://cal.com/ledesma-ivan)
+📆 [Schedule a Meeting](https://cal.com/ledesma-ivan)
 
